@@ -1,6 +1,6 @@
 {
-  "name": "react-json-tree",
-  "version": "0.10.9",
+  "name": "@rsolomon/react-json-tree",
+  "version": "0.10.10",
   "description": "React JSON Viewer Component, Extracted from redux-devtools",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chibicode/react-json-tree.git"
+    "url": "https://github.com/rsolomon/react-json-tree.git"
   },
   "keywords": [
     "react",
@@ -29,9 +29,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/chibicode/react-json-tree/issues"
+    "url": "https://github.com/rsolomon/react-json-tree/issues"
   },
-  "homepage": "https://github.com/chibicode/react-json-tree",
+  "homepage": "https://github.com/rsolomon/react-json-tree",
   "devDependencies": {
     "babel-cli": "^6.7.7",
     "babel-core": "^6.7.7",
