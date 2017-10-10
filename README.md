@@ -2,7 +2,7 @@
 
 React JSON Viewer Component. Forked from [alexkuz/react-json-tree](https://github.com/alexkuz/react-json-tree). This will be maintained (pull requests will be evaulated) until the original repository is once again maintained. Extracted from [redux-devtools](https://github.com/gaearon/redux-devtools). Supports [iterable](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Iteration_protocols#iterable) objects, such as [Immutable.js](https://facebook.github.io/immutable-js/).
 
-![](https://img.shields.io/npm/v/react-json-tree.svg)
+![](https://img.shields.io/npm/v/@rsolomon/react-json-tree.svg)
 
 ### Usage
 
